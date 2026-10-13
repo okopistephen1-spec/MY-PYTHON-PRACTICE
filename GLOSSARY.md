@@ -1,0 +1,27 @@
+# Beginner Python Glossary
+
+- **Argument:** A value passed to a function call, such as `len("cat")` passing `"cat"`.
+- **Assignment:** Giving a name a value, such as `score = 10`.
+- **Boolean:** One of two values: `True` or `False`.
+- **Bug:** A mistake that causes a program to behave incorrectly.
+- **Class:** A definition used to create objects with related data and behaviour.
+- **Condition:** An expression used to decide which code runs.
+- **Data type:** The kind of value, such as `int`, `float`, `str`, or `bool`.
+- **Dictionary:** A collection that stores key-value pairs.
+- **Exception:** An event that interrupts normal execution because an error occurred.
+- **Expression:** Code that evaluates to a value, such as `3 + 4`.
+- **Function:** A reusable block of code that can accept inputs and return a result.
+- **Index:** A position in a sequence. Python sequence indexes usually begin at zero.
+- **Iterable:** An object that can provide its items one at a time, such as a list or string.
+- **Iteration:** Repeating an operation over items or until a condition changes.
+- **Method:** A function associated with an object, such as `"hello".upper()`.
+- **Module:** A Python file that can be imported.
+- **Mutable:** Able to be changed after creation, as lists and dictionaries are.
+- **Parameter:** A variable named in a function definition.
+- **Return value:** The result sent back by a function using `return`.
+- **Scope:** The part of a program where a name can be accessed.
+- **String:** Text represented by `str`, usually written inside quotes.
+- **Syntax:** The rules for writing valid code.
+- **Test case:** A particular input and expected behaviour used to check a program.
+- **Traceback:** Python's report showing where an exception occurred.
+- **Type conversion:** Converting a value from one type to another, such as `int("12")`.
